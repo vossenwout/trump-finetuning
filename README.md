@@ -46,7 +46,7 @@ trump-finetune/
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vossenwout/trump-finetuning.git
    cd trump-finetune
    ```
 

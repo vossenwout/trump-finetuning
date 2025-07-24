@@ -11,3 +11,6 @@ wheels/
 
 .env
 audio/
+*.gguf
+
+*.DS_Store
